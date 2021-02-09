@@ -4,6 +4,9 @@ Having not made any GIS projects available to the public, I decided to make two 
 
 These are from ArcGIS's challenges regarding geospatial analysis and deep learning. As I'm not as experienced with ArcGIS specifically, I dove into a number of challenges, but found these two to be my favorite.
 
+PROJECTS ON GOOGLE DRIVE:
+https://drive.google.com/drive/folders/1BlTYr-JZMDRuoSfGqDtvQHXjUmoDc0pU?usp=sharing
+
 ## Solar Roofs ##
 The first, solar roofs, is made to refine geospatial data to find which rooftops in a Washington DC neighborhood are suitable for solar panels, and how mkuch could suitable roofs produce? We were given an outline of lot blueprints in the .tif file, as well as a DSM raster layer.
 
